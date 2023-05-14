@@ -16,8 +16,7 @@ To run the Swing example, you don't need to add any external libraries, just run
 
 To run both the JavaFX and SWT projects, you need to download the required libraries and add them to the projects. You can find instructions on how to do that at:
 
-- https://openjfx.io/openjfx-docs/#install-java fot JavaFX and
--and https://www.eclipse.org/swt/ for SWT
-
+- https://openjfx.io/openjfx-docs/#install-java fot JavaFX
+- and https://www.eclipse.org/swt/ for SWT-r
 These are only to show the very basic functionalities for these three libraries, and much more can be done with these tools. Happy coding!
 
